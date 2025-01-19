@@ -25,7 +25,7 @@ const MonthlyReport = () => {
   const [error, setError] = useState(null);
   const [productionData, setProductionData] = useState([]);
 
-  const GEMINI_API_KEY = 'AIzaSyDdK7ukD2lO9kli33tX1v0wv1RBzbxhAgY';
+  const GEMINI_API_KEY = '';
 
   const fetchEmployeeDetails = async () => {
     try {
