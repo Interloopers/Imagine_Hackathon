@@ -1,4 +1,5 @@
-# 🐄 Empowering Farmers: Livestock Management Platform
+# 🐄 Empowering Farmers: Livestock Management Platform 
+🎮 *Top 20 Finalists in PanIIT Imagine Hackathon 2025 held at Jio World Centre* 🎮  
 
 Welcome to our **Livestock Management Platform** – a cutting-edge solution designed to help farmers efficiently manage their livestock, automate data tracking, and improve productivity using advanced AI and analytics.
 
