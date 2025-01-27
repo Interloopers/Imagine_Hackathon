@@ -28,10 +28,10 @@ Welcome to our **Livestock Management Platform** – a cutting-edge solution des
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React, Tailwind CSS  
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **AI Integration:** Python (TensorFlow, OpenCV)  
+- **AI Integration:** Gemini Api 
 
 ---
 
@@ -48,27 +48,19 @@ Welcome to our **Livestock Management Platform** – a cutting-edge solution des
 ## 📸 **Screenshots**  
 
 ### 1️⃣ Cattle List
-![Cattle List](./screenshots/cattle_list.png)  
+![Cattle List](./screenshot/cattle_list.png)  
 
 ### 2️⃣ AI Image Input  
-![AI Input](./screenshots/ai_input.png)  
+![AI Input](./screenshot/ai_input.png)  
 
 ### 3️⃣ Health Analysis  
-![Health Analysis](./screenshots/detail.png)  
+![Health Analysis](./screenshot/detail.png)  
 
 ### 4️⃣ Analytics  
-![Analytics](./screenshots/analytics.png)  
+![Analytics](./screenshot/analytics.png)  
 
 ---
 
 ## 📜 **Credits**  
 - **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH), [@Suyog_Sable](https://github.com/Suyog_Sable)  
 - **Special Thanks**: To PanIIT Imagine Hackathon 2025 and all the mentors who supported us! 🎉  
-
----
-
-## 🕹️ **Installation**  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Interloopers/Livestock-Management.git
