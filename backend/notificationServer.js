@@ -6,11 +6,9 @@ const router = express.Router();
 
 // Initialize the Appwrite client
 const client = new sdk.Client()
-  .setEndpoint('https://cloud.appwrite.io/v1') // Your Appwrite API endpoint
-  .setProject('6780df780034e872f813') // Your project ID
-  .setKey(
-    'standard_20dd09339b2792eff56c070e6beb94a8716859f2110bfe602dd2f157c646b58f6d60fb2f65bc26935f53fbef03cee440bfe367697f0367d1a40b43948815a848fa9963bed88d0a856c616298043cdde6da6d384979b96188959422383a054304f9fb2445512b3c943723e81b99b259c6cb7e278fd35bfa81d6f9ae16cffdc29b' // Your secret key
-  ); // Your secret key
+  .setEndpoint('') // Your Appwrite API endpoint
+  .setProject('') // Your project ID
+  .setKey(''); // Your secret key
 
 const messaging = new sdk.Messaging(client);
 const users = new sdk.Users(client);
