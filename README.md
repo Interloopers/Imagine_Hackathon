@@ -47,22 +47,16 @@ Welcome to our **Livestock Management Platform** – a cutting-edge solution des
 
 ## 📸 **Screenshots**  
 
-### 1️⃣ Dashboard  
-![Dashboard](./screenshots/dashboard.png)  
-
-### 2️⃣ Cattle List  
+### 1️⃣ Cattle List
 ![Cattle List](./screenshots/cattle_list.png)  
 
-### 3️⃣ AI Image Input  
+### 2️⃣ AI Image Input  
 ![AI Input](./screenshots/ai_input.png)  
 
-### 4️⃣ Health Analysis  
-![Health Analysis](./screenshots/health_analysis.png)  
+### 3️⃣ Health Analysis  
+![Health Analysis](./screenshots/detail.png)  
 
-### 5️⃣ PDF Report  
-![PDF Report](./screenshots/pdf_report.png)  
-
-### 6️⃣ Analytics  
+### 4️⃣ Analytics  
 ![Analytics](./screenshots/analytics.png)  
 
 ---
